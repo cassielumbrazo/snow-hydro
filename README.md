@@ -1,5 +1,5 @@
 # snow-hydro
-Snow hydrology class assignments, personal research, and anaylsis. 
+### Snow hydrology class assignments, personal research, and anaylsis. 
 
 Author of notebooks: Cassie Lumbrazo (lumbraca@uw.edu)
 
@@ -23,6 +23,13 @@ Class website: https://mountain-hydrology-research-group.github.io/snow-hydrolog
    * **8_SnowMelt notebook**
    
 
-Many unit conversions from mass to energy flux 
+### Conversions required... need to convert from melt energy to energy in Watts. 
+
+
+We can calculate the change in SWE in mm/day with the snow pillows, and we want to know how much energy in Watts the total daily snow melt is... 
  ![](units.jpg)
-  ![](units_2.jpg)
+
+
+Similarly, if we have the LH flux in W/m2, we can calculate the total daily verticle water vapor in mm/day
+
+ ![](units_2.jpg)
