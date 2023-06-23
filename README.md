@@ -24,5 +24,5 @@ Class website: https://mountain-hydrology-research-group.github.io/snow-hydrolog
    
 
 Many unit conversions from mass to energy flux 
- ![](units.png)
-  ![](units_2.png)
+ ![](units.jpg)
+  ![](units_2.jpg)
