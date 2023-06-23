@@ -27,7 +27,7 @@ Class website: https://mountain-hydrology-research-group.github.io/snow-hydrolog
 
 
 We can calculate the change in SWE in mm/day with the snow pillows, and we want to know how much energy in Watts the total daily snow melt is... 
- ![](units.jpg = 200x)
+ ![](units.jpg)
 
 
 Similarly, if we have the LH flux in W/m2, we can calculate the total daily verticle water vapor in mm/day
