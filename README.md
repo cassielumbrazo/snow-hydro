@@ -22,3 +22,7 @@ Class website: https://mountain-hydrology-research-group.github.io/snow-hydrolog
 8. What makes snow melt?
    * **8_SnowMelt notebook**
    
+
+Many unit conversions from mass to energy flux 
+ ![](units.png)
+  ![](units_2.png)
